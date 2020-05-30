@@ -1,10 +1,6 @@
 package controller;
 
 public class ControllerConverter{
-	
-	/* Recebe uma string e usando uma função do próprio java chamada Integer.parseInt(string (com os números a serem convertidos)
-	 * , int (a base que os números vão ser calculados)), depois o programa retorna o valor
-	 * O try e catch são para um tratamento básico de erro*/
 	public int BinaryToDecimal(String binary) {
 		try {
 			int bin = Integer.parseInt(binary, 2);
