@@ -1,4 +1,4 @@
-# BinaryDecimalHexa_Converter
+# Binary-Decimal-Hexadecimal-Converter
  Decimal Hexadecimal and Binary Converter
 
 This program was created for convert:
